@@ -1,0 +1,14 @@
+{
+  "name": "Microsoft.jQuery.Unobtrusive.Validation",
+  "author": {
+    "name": "Pavel Nezhencev",
+    "url": "http://dotnetcake.blogspot.com/"
+  },
+  "description": "A clone of Microsoft.jQuery.Unobtrusive.Validation NuGet package",
+  "license": "Proprietary",
+  "main": "jquery.validate.unobtrusive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
